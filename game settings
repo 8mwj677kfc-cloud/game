@@ -11,6 +11,6 @@ iframe { width: 100%; height: 100%; border: none; }
 </head>
 <body>
 <!-- SWAP THE URL BELOW WITH YOUR GAME URL -->
-<iframe src="https://cork7.com/"></iframe>
+<iframe src="cork7.com/"></iframe>
 </body>
 </html>
